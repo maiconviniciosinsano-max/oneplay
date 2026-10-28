@@ -1,8 +1,8 @@
 {
-    "versionCode":  12,
-    "versionName":  "1.3.0",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.3.0/OnePlay-1.3.0.apk",
-    "size":  3638843,
-    "sha256":  "fcbcb949b690f1afb5308fce5c37455076fd6c9cd9505768f4e28b31d6f377d3",
-    "notes":  "Primeira versao publicada."
+    "versionCode":  13,
+    "versionName":  "1.4.0",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.0/OnePlay-1.4.0.apk",
+    "size":  3638847,
+    "sha256":  "86888f05bc4d2926999ce7a7cd5fa77e22b38678398abff90ca3462c12ff9051",
+    "notes":  "Atualizacao de teste: so para voce ver o aviso de versao nova."
 }
