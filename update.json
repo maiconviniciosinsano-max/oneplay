@@ -1,8 +1,8 @@
 {
-    "versionCode":  14,
-    "versionName":  "1.4.1",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.1/OnePlay-1.4.1.apk",
+    "versionCode":  15,
+    "versionName":  "1.4.2",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.2/OnePlay-1.4.2.apk",
     "size":  3655231,
-    "sha256":  "a2efbccf6496128c27077f91a4db20d392db9e72742a5951ac876a8ae6cb390f",
-    "notes":  "Nova: voce troca a senha do conteudo adulto no proprio app (Ajustes \u003e Conteudo). Se esquecer, o vendedor recupera. Nova: botao de WhatsApp na aba Suporte, com a mensagem ja pronta e sem mostrar seu usuario e senha."
+    "sha256":  "7985c9c35f25bf8f50661f1945a77dd8a43bfe301771c6356e67d95cd155cf25",
+    "notes":  "Agora o aviso de versao nova chega sozinho: o app procura ao abrir, sem voce tocar em nada."
 }
