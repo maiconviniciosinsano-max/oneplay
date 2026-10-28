@@ -1,8 +1,8 @@
 {
-    "versionCode":  16,
-    "versionName":  "1.4.3",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.3/OnePlay-1.4.3.apk",
+    "versionCode":  17,
+    "versionName":  "1.4.4",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.4/OnePlay-1.4.4.apk",
     "size":  3655231,
-    "sha256":  "4a26842504fdbca237b9668023e7d32786c46cb0956910cd2885c71d6dd29cb6",
-    "notes":  "O aviso de versao nova agora aparece tambem quando voce volta para o aplicativo, sem precisar fechar e abrir."
+    "sha256":  "d40556b32a08ddb139e6b684fc71f34afaabe9f2fff3699ce8d6fe01bc9516f3",
+    "notes":  "Corrigido: em Continuar assistindo, cada serie agora aparece uma vez so, com o ultimo episodio que voce assistiu (antes ficava um card por episodio)."
 }
