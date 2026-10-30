@@ -1,8 +1,8 @@
 {
-    "versionCode":  19,
-    "versionName":  "1.4.6",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.6/OnePlay-1.4.6.apk",
+    "versionCode":  20,
+    "versionName":  "1.4.7",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.7/OnePlay-1.4.7.apk",
     "size":  3671615,
-    "sha256":  "3a4daf53de98cba058042a99095c2276cce9d3d4760b22651e84a1f7345a3783",
-    "notes":  "Barras de brilho e volume aparecem quando voce toca na tela do video; gestos mais claros; o video pausa ao fechar a janelinha (PiP); opcoes do player mais limpas."
+    "sha256":  "f9d095c523e6a6e1924ba9b24da4743b3b6acb04f896db148f16c17c318d6fa6",
+    "notes":  "Shows e concertos agora ficam fora de Series; capas e posters das series vem do painel, com ano, genero e sinopse."
 }
