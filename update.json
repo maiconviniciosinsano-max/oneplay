@@ -1,8 +1,8 @@
 {
-    "versionCode":  18,
-    "versionName":  "1.4.5",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.5/OnePlay-1.4.5.apk",
+    "versionCode":  19,
+    "versionName":  "1.4.6",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.6/OnePlay-1.4.6.apk",
     "size":  3671615,
-    "sha256":  "181735faceebb1910bda3761740932e84379b29156b1ebcb58563150545bcbee",
-    "notes":  "validade da lista, faixa na Inicio so com 2 dias ou menos, cartoes de lista limpos"
+    "sha256":  "3a4daf53de98cba058042a99095c2276cce9d3d4760b22651e84a1f7345a3783",
+    "notes":  "Barras de brilho e volume aparecem quando voce toca na tela do video; gestos mais claros; o video pausa ao fechar a janelinha (PiP); opcoes do player mais limpas."
 }
