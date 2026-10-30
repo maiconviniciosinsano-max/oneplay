@@ -1,8 +1,8 @@
 {
-    "versionCode":  20,
-    "versionName":  "1.4.7",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.7/OnePlay-1.4.7.apk",
+    "versionCode":  21,
+    "versionName":  "1.4.8",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.8/OnePlay-1.4.8.apk",
     "size":  3671615,
-    "sha256":  "f9d095c523e6a6e1924ba9b24da4743b3b6acb04f896db148f16c17c318d6fa6",
-    "notes":  "Shows e concertos agora ficam fora de Series; capas e posters das series vem do painel, com ano, genero e sinopse."
+    "sha256":  "b45c82e63fd9aecd425a9a253d7a07a7f8378eb707fc9231daa680097ab870ae",
+    "notes":  "Corrige o app fechar ao abrir Filmes e categorias (listas que repetem o mesmo id). De quebra, as setas de cima e de baixo do controle deixam de ficar presas nos campos de texto na TV."
 }
