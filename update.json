@@ -1,8 +1,8 @@
 {
-    "versionCode":  17,
-    "versionName":  "1.4.4",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.4/OnePlay-1.4.4.apk",
-    "size":  3655231,
-    "sha256":  "d40556b32a08ddb139e6b684fc71f34afaabe9f2fff3699ce8d6fe01bc9516f3",
-    "notes":  "Corrigido: em Continuar assistindo, cada serie agora aparece uma vez so, com o ultimo episodio que voce assistiu (antes ficava um card por episodio)."
+    "versionCode":  18,
+    "versionName":  "1.4.5",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.5/OnePlay-1.4.5.apk",
+    "size":  3671615,
+    "sha256":  "181735faceebb1910bda3761740932e84379b29156b1ebcb58563150545bcbee",
+    "notes":  "validade da lista, faixa na Inicio so com 2 dias ou menos, cartoes de lista limpos"
 }
