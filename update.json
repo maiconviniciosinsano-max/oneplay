@@ -1,8 +1,8 @@
 {
-    "versionCode":  21,
-    "versionName":  "1.4.8",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.8/OnePlay-1.4.8.apk",
-    "size":  3671615,
-    "sha256":  "b45c82e63fd9aecd425a9a253d7a07a7f8378eb707fc9231daa680097ab870ae",
-    "notes":  "Corrige o app fechar ao abrir Filmes e categorias (listas que repetem o mesmo id). De quebra, as setas de cima e de baixo do controle deixam de ficar presas nos campos de texto na TV."
+    "versionCode":  22,
+    "versionName":  "1.4.9",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.9/OnePlay-1.4.9.apk",
+    "size":  3687999,
+    "sha256":  "bc86e4a4c0c740d80e7353fc025a721129d4a754bdd554cf925d6be43e115f64",
+    "notes":  "O VOLTAR do player agora abre a tela da serie na temporada e no episodio em que voce parou, com o selo ULTIMO ASSISTIDO no episodio visto por ultimo. Funciona para Continuar assistindo e Historico."
 }
