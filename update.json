@@ -1,8 +1,8 @@
 {
-    "versionCode":  22,
-    "versionName":  "1.4.9",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.4.9/OnePlay-1.4.9.apk",
-    "size":  3687999,
-    "sha256":  "bc86e4a4c0c740d80e7353fc025a721129d4a754bdd554cf925d6be43e115f64",
-    "notes":  "O VOLTAR do player agora abre a tela da serie na temporada e no episodio em que voce parou, com o selo ULTIMO ASSISTIDO no episodio visto por ultimo. Funciona para Continuar assistindo e Historico."
+    "versionCode":  23,
+    "versionName":  "1.5.0",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.0/OnePlay-1.5.0.apk",
+    "size":  3837880,
+    "sha256":  "1c3b299d3e14d50765bbe395cd1ad9b80766885e25264f90c4f848aa0e973a89",
+    "notes":  "Novidades: botao \u0027Continuar assistindo\u0027 na tela do filme, que volta exatamente de onde voce parou (com \u0027Assistir do inicio\u0027). O carrossel da Inicio agora mostra so os destaques, sem titulos aleatorios. A capa no topo aparece inteira, sem zoom e sem corte. Correcao: o titulo nao desaparece mais de \u0027Continuar assistindo\u0027 ao sair do player."
 }
