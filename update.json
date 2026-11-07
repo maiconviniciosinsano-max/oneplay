@@ -1,8 +1,8 @@
 {
-    "versionCode":  23,
-    "versionName":  "1.5.0",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.0/OnePlay-1.5.0.apk",
+    "versionCode":  24,
+    "versionName":  "1.5.1",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.1/OnePlay-1.5.1.apk",
     "size":  3837880,
-    "sha256":  "1c3b299d3e14d50765bbe395cd1ad9b80766885e25264f90c4f848aa0e973a89",
-    "notes":  "Novidades: botao \u0027Continuar assistindo\u0027 na tela do filme, que volta exatamente de onde voce parou (com \u0027Assistir do inicio\u0027). O carrossel da Inicio agora mostra so os destaques, sem titulos aleatorios. A capa no topo aparece inteira, sem zoom e sem corte. Correcao: o titulo nao desaparece mais de \u0027Continuar assistindo\u0027 ao sair do player."
+    "sha256":  "9471a0a3ef49662933cfbe4a24e68abd1f8bc5919f78e18d963c6d370fdce5e6",
+    "notes":  "Layout maior para TV Box e TV smart (cartoes, capa e menus mais espacados). A sincronizacao nao aparece mais a toa ao voltar do filme. No celular tudo continua igual."
 }
