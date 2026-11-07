@@ -1,8 +1,8 @@
 {
-    "versionCode":  32,
-    "versionName":  "1.5.9",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.9/OnePlay-1.5.9.apk",
-    "size":  3870648,
-    "sha256":  "587b96140a9189ef0623aa5f17cfbbfd2b03e87b12f437af1210f821d8a38b6b",
-    "notes":  "Gaveta de categorias nao deixa mais o foco vazar para o catalogo. Barra do player acelera ao segurar: toque simples = 10s; segurando o passo cresce ate 5-10 minutos."
+    "versionCode":  33,
+    "versionName":  "1.6.0",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.0/OnePlay-1.6.0.apk",
+    "size":  3887032,
+    "sha256":  "f6ae0f5670d5a2f7a7cdc8dd65c686862ac7ad48fc550be4d3413ff4d96e4fa9",
+    "notes":  "Novo: receber a lista por codigo. Em Adicionar lista, escolha \u0027Receber por codigo\u0027 e mostre o codigo na tela; quem vende envia a lista e ela entra sozinha, sem digitar nada. Serve tambem para trocar a lista se uma parar."
 }
