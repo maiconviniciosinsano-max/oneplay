@@ -1,8 +1,8 @@
 {
-    "versionCode":  36,
-    "versionName":  "1.6.3",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.3/OnePlay-1.6.3.apk",
+    "versionCode":  37,
+    "versionName":  "1.6.4",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.4/OnePlay-1.6.4.apk",
     "size":  3887032,
-    "sha256":  "ab75ff9fce1a6443bf3ca3476b10334dc4b28a871c68bffa6bf1f3a40da73f34",
-    "notes":  "Ajuste na barra de categorias da TV: nomes longos agora aparecem por inteiro (quebram em duas linhas) e a barra ficou um pouco mais larga."
+    "sha256":  "30d0ec51e2ca41440a749dc335c4c8122b3518b22ada7a323b5976e427e0be69",
+    "notes":  "Corrige o armazenamento que crescia sozinho, faz o aviso de atualizacao voltar a aparecer a cada abertura ate atualizar, e melhora os canais ao vivo que ficavam repetindo trechos."
 }
