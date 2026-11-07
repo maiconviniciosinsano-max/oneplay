@@ -1,8 +1,8 @@
 {
-    "versionCode":  34,
-    "versionName":  "1.6.1",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.1/OnePlay-1.6.1.apk",
+    "versionCode":  35,
+    "versionName":  "1.6.2",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.2/OnePlay-1.6.2.apk",
     "size":  3887032,
-    "sha256":  "f30b72ff8f4866a92802ea3503bb3a2e03adea7af311ee13be0249edbca27d5f",
-    "notes":  "Corrige o botao Ajustes que sumia no celular e melhora o painel de pareamento (renomear aparelho e busca)."
+    "sha256":  "8071381bc5d816f9a480162a5d86f46fed7c4a6c99b8a45b792cd5bd71e6ad1f",
+    "notes":  "TV ao Vivo, Filmes e Series: a lista de categorias agora fica fixa na esquerda, deixando a navegacao mais rapida no controle remoto. No celular o visual continua com o botao de categorias. Melhorias de fluidez e ajustes de layout."
 }
