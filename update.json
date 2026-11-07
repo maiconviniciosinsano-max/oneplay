@@ -1,8 +1,8 @@
 {
-    "versionCode":  33,
-    "versionName":  "1.6.0",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.0/OnePlay-1.6.0.apk",
+    "versionCode":  34,
+    "versionName":  "1.6.1",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.1/OnePlay-1.6.1.apk",
     "size":  3887032,
-    "sha256":  "f6ae0f5670d5a2f7a7cdc8dd65c686862ac7ad48fc550be4d3413ff4d96e4fa9",
-    "notes":  "Novo: receber a lista por codigo. Em Adicionar lista, escolha \u0027Receber por codigo\u0027 e mostre o codigo na tela; quem vende envia a lista e ela entra sozinha, sem digitar nada. Serve tambem para trocar a lista se uma parar."
+    "sha256":  "f30b72ff8f4866a92802ea3503bb3a2e03adea7af311ee13be0249edbca27d5f",
+    "notes":  "Corrige o botao Ajustes que sumia no celular e melhora o painel de pareamento (renomear aparelho e busca)."
 }
