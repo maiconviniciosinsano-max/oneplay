@@ -1,8 +1,8 @@
 {
-    "versionCode":  29,
-    "versionName":  "1.5.6",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.6/OnePlay-1.5.6.apk",
-    "size":  3854264,
-    "sha256":  "95c56288594917595dd21c65d6c8d22a3d4e61306a8b0af0b4cb4f5ce26f7efe",
-    "notes":  "Novidades: escolher uma categoria agora leva a selecao direto ao primeiro item (Filmes, TV ao Vivo e Series). Volta do player mais fluida, sem piscar as capas. Segure o OK em avancar/voltar 10s para adiantar sem parar. Cabecalho e menu inferiores com acabamento mais bonito. Carrossel e foco do player mais estaveis."
+    "versionCode":  30,
+    "versionName":  "1.5.7",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.7/OnePlay-1.5.7.apk",
+    "size":  3870648,
+    "sha256":  "73a6754fb946cb4087af071b4ba4c5f15a0d17faeae4082ad720f32555e5e4e9",
+    "notes":  "Novidades desta versao:\n- Barra do player selecionavel no controle: OK pega a barra, esquerda/direita movem e OK pula para o ponto marcado.\n- Setas para passar os destaques do Inicio na TV (nao trava mais).\n- Player reconecta sozinho quando a conexao cai ao avancar o video.\n- Animacao do nome OnePlay agora corre continua, sem piscar.\n- Melhorias gerais de fluidez na TV."
 }
