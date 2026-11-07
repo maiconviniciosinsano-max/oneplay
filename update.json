@@ -1,8 +1,8 @@
 {
-    "versionCode":  25,
-    "versionName":  "1.5.2",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.2/OnePlay-1.5.2.apk",
+    "versionCode":  26,
+    "versionName":  "1.5.3",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.3/OnePlay-1.5.3.apk",
     "size":  3854264,
-    "sha256":  "a525a915a3c3cfeefeef79ddac58196066ead04c6121a36654b7fa1d689e3758",
-    "notes":  "Na TV o menu lateral voltou completo (Favoritos e Historico aparecem), interface mais compacta estilo streaming, grade com mais titulos por tela, tela do filme/serie sem precisar rolar, campo de busca so abre o teclado ao apertar OK e navegacao mais fluida."
+    "sha256":  "1014b483fe705942a1a7ee1a9c75b5bb3f497f06c13c7dd69b6a4f3393ba959a",
+    "notes":  "TV ao Vivo mais limpa: cabecalho e busca somem ao descer a lista. Ao sair do player, o foco fica no canal que estava assistindo. Trocar de categoria volta para o inicio da nova lista. No controle remoto, o OK abre e fecha o menu do player (pausar/avancar/config). Botao de programacao (relogio) removido."
 }
