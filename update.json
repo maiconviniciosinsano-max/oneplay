@@ -1,8 +1,8 @@
 {
-    "versionCode":  37,
-    "versionName":  "1.6.4",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.4/OnePlay-1.6.4.apk",
+    "versionCode":  38,
+    "versionName":  "1.6.5",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.5/OnePlay-1.6.5.apk",
     "size":  3887032,
-    "sha256":  "30d0ec51e2ca41440a749dc335c4c8122b3518b22ada7a323b5976e427e0be69",
-    "notes":  "Corrige o armazenamento que crescia sozinho, faz o aviso de atualizacao voltar a aparecer a cada abertura ate atualizar, e melhora os canais ao vivo que ficavam repetindo trechos."
+    "sha256":  "89b8ab35fe63eec0e063fbe0188e60c71bea36e02ceecec615f68a0c45fc3e8c",
+    "notes":  "Melhora o recebimento de lista por codigo: tenta de novo sozinho antes de falhar e explica o motivo real quando nao da (sem internet, data e hora do aparelho erradas, ou servidor fora)."
 }
