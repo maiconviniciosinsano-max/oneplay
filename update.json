@@ -1,8 +1,8 @@
 {
-    "versionCode":  30,
-    "versionName":  "1.5.7",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.7/OnePlay-1.5.7.apk",
+    "versionCode":  31,
+    "versionName":  "1.5.8",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.8/OnePlay-1.5.8.apk",
     "size":  3870648,
-    "sha256":  "73a6754fb946cb4087af071b4ba4c5f15a0d17faeae4082ad720f32555e5e4e9",
-    "notes":  "Novidades desta versao:\n- Barra do player selecionavel no controle: OK pega a barra, esquerda/direita movem e OK pula para o ponto marcado.\n- Setas para passar os destaques do Inicio na TV (nao trava mais).\n- Player reconecta sozinho quando a conexao cai ao avancar o video.\n- Animacao do nome OnePlay agora corre continua, sem piscar.\n- Melhorias gerais de fluidez na TV."
+    "sha256":  "e31345d363dfd3678406b72622d631a9b4fd5323da8ecc59557e06eae7e57c1a",
+    "notes":  "Foco da categoria: ao escolher uma categoria a caixinha azul vai direto pro primeiro item da lista (Filmes, Series e TV ao Vivo). Novo atalho: na ultima coluna da grade, a seta direita abre a categoria. Fechar a categoria sem escolher devolve o foco ao item que estava selecionado."
 }
