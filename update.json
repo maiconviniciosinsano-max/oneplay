@@ -1,8 +1,8 @@
 {
-    "versionCode":  28,
-    "versionName":  "1.5.5",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.5/OnePlay-1.5.5.apk",
+    "versionCode":  29,
+    "versionName":  "1.5.6",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.6/OnePlay-1.5.6.apk",
     "size":  3854264,
-    "sha256":  "8dafcfe58c8e577883b087ef375e9065ac3f0a64f70451f537c80059788f97b4",
-    "notes":  "Menu do player nao some enquanto voce navega; o foco volta ao filme/serie e ao canal que voce assistia; botao de categoria da TV ao Vivo agora e selecionavel no controle."
+    "sha256":  "95c56288594917595dd21c65d6c8d22a3d4e61306a8b0af0b4cb4f5ce26f7efe",
+    "notes":  "Novidades: escolher uma categoria agora leva a selecao direto ao primeiro item (Filmes, TV ao Vivo e Series). Volta do player mais fluida, sem piscar as capas. Segure o OK em avancar/voltar 10s para adiantar sem parar. Cabecalho e menu inferiores com acabamento mais bonito. Carrossel e foco do player mais estaveis."
 }
