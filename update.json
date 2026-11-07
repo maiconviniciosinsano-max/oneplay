@@ -1,8 +1,8 @@
 {
-    "versionCode":  24,
-    "versionName":  "1.5.1",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.1/OnePlay-1.5.1.apk",
-    "size":  3837880,
-    "sha256":  "9471a0a3ef49662933cfbe4a24e68abd1f8bc5919f78e18d963c6d370fdce5e6",
-    "notes":  "Layout maior para TV Box e TV smart (cartoes, capa e menus mais espacados). A sincronizacao nao aparece mais a toa ao voltar do filme. No celular tudo continua igual."
+    "versionCode":  25,
+    "versionName":  "1.5.2",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.2/OnePlay-1.5.2.apk",
+    "size":  3854264,
+    "sha256":  "a525a915a3c3cfeefeef79ddac58196066ead04c6121a36654b7fa1d689e3758",
+    "notes":  "Na TV o menu lateral voltou completo (Favoritos e Historico aparecem), interface mais compacta estilo streaming, grade com mais titulos por tela, tela do filme/serie sem precisar rolar, campo de busca so abre o teclado ao apertar OK e navegacao mais fluida."
 }
