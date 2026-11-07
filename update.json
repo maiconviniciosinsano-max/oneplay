@@ -1,8 +1,8 @@
 {
-    "versionCode":  26,
-    "versionName":  "1.5.3",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.3/OnePlay-1.5.3.apk",
+    "versionCode":  27,
+    "versionName":  "1.5.4",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.5.4/OnePlay-1.5.4.apk",
     "size":  3854264,
-    "sha256":  "3f4ea2a5decd2e4ae4ceb2bf359c75425ea48bdcb2c5e03edc5251476d7bbe1f",
-    "notes":  "TV ao Vivo mais limpa: cabecalho e busca somem ao descer a lista. Ao sair do player, o foco fica no canal que estava assistindo. Trocar de categoria volta para o inicio da nova lista. No controle remoto, o OK abre e fecha o menu do player (pausar/avancar/config). Botao de programacao (relogio) removido."
+    "sha256":  "a60c6a4d684045c820bd85e34095bd96356315ad06fc7a04f52628e347194537",
+    "notes":  "Corrigido o menu do player: o OK agora abre e mantem os controles, e o foco aparece no play/pause. Ao sair do player, o foco volta para o episodio ou filme que estava sendo assistido. Na tela da serie agora da para focar e usar os botoes de baixar e reproduzir com o controle."
 }
