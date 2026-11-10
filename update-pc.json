@@ -1,0 +1,8 @@
+{
+    "versionCode":  1,
+    "versionName":  "1.6.6",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.6-pc/OnePlay-Setup-1.6.6.exe",
+    "size":  114447360,
+    "sha256":  "aa952b98c6fbbc476f490d3c062a705836def183a73d21df14e35bd1956465c7",
+    "notes":  "Corrige a validade da lista: agora a data aparece ja na abertura, sem precisar apertar Atualizar."
+}
