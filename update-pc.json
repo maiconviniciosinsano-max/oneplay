@@ -1,8 +1,8 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.6.8",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.8-pc/OnePlay-Setup-1.6.8.exe",
-    "size":  114463744,
-    "sha256":  "79c2549ddc8661e47851e8d81aee00e5aabc12fb1c172b18a0d7f457464e8563",
-    "notes":  "Atualizacao automatica: agora o OnePlay se atualiza sozinho. Quando sai versao nova, ele baixa, instala e reabre sem voce precisar fazer nada. Suas listas, favoritos e historico continuam no lugar."
+    "versionCode":  4,
+    "versionName":  "1.6.9",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.9-pc/OnePlay-Setup-1.6.9.exe",
+    "size":  114467840,
+    "sha256":  "06ce7a9b24755c657c791bfb406cfd1954c8911b10a79b15d3a9f6e51074c1c4",
+    "notes":  "Novo selo LEG nos filmes legendados, titulos limpos (sem o selo do provedor no nome) e navegacao mais fluida nas listas grandes. Favoritos, historico e listas continuam no lugar."
 }
