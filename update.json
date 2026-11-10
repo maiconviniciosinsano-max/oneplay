@@ -1,8 +1,8 @@
 {
-    "versionCode":  39,
-    "versionName":  "1.6.6",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.6/OnePlay-1.6.6.apk",
+    "versionCode":  40,
+    "versionName":  "1.6.7",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.7/OnePlay-1.6.7.apk",
     "size":  3887032,
-    "sha256":  "78ce7f35f34e2bf8dcaa8c97d73dce4b46212233a8b0853c0e82b8ddd980e933",
-    "notes":  "Quando a TV ja tem um OnePlay de outra origem, o app avisa com clareza e explica como reinstalar, em vez de deixar o instalador do Android dar \u0027app nao foi instalado\u0027."
+    "sha256":  "76606b176bbd66c20d3f736a762ce87b612f427804089722d311ddb9c747425f",
+    "notes":  "Catalogo sem repeticao: quando o mesmo titulo tem versao dublada e legendada, fica so a dublada. A legendada aparece apenas quando nao existe dublada."
 }
