@@ -1,8 +1,8 @@
 {
-    "versionCode":  2,
-    "versionName":  "1.6.7",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.7-pc/OnePlay-Setup-1.6.7.exe",
-    "size":  114459648,
-    "sha256":  "9be40c271a47803c6ddc4d575a6728edd2d3ac099dbaaa1bab2bf3a5180112c7",
-    "notes":  "Tela de primeira abertura renovada, com cartoes, icones e visual premium. Validade da lista aparece ja na abertura."
+    "versionCode":  3,
+    "versionName":  "1.6.8",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.8-pc/OnePlay-Setup-1.6.8.exe",
+    "size":  114463744,
+    "sha256":  "79c2549ddc8661e47851e8d81aee00e5aabc12fb1c172b18a0d7f457464e8563",
+    "notes":  "Atualizacao automatica: agora o OnePlay se atualiza sozinho. Quando sai versao nova, ele baixa, instala e reabre sem voce precisar fazer nada. Suas listas, favoritos e historico continuam no lugar."
 }
