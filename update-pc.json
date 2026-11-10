@@ -1,8 +1,8 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.6.9",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.9-pc/OnePlay-Setup-1.6.9.exe",
+    "versionCode":  5,
+    "versionName":  "1.6.10",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.10-pc/OnePlay-Setup-1.6.10.exe",
     "size":  114467840,
-    "sha256":  "06ce7a9b24755c657c791bfb406cfd1954c8911b10a79b15d3a9f6e51074c1c4",
-    "notes":  "Novo selo LEG nos filmes legendados, titulos limpos (sem o selo do provedor no nome) e navegacao mais fluida nas listas grandes. Favoritos, historico e listas continuam no lugar."
+    "sha256":  "92c22e8c853314188cda0fab7a98a42555b9dea8d6fc11f28b6459ed2558b9a5",
+    "notes":  "Catalogo sem repeticao: quando o mesmo titulo tem versao dublada e legendada, fica so a dublada. A legendada aparece apenas quando nao existe dublada."
 }
