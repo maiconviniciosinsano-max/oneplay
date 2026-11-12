@@ -1,8 +1,8 @@
 {
-    "versionCode":  40,
-    "versionName":  "1.6.7",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.7/OnePlay-1.6.7.apk",
-    "size":  3887032,
-    "sha256":  "76606b176bbd66c20d3f736a762ce87b612f427804089722d311ddb9c747425f",
-    "notes":  "Catalogo sem repeticao: quando o mesmo titulo tem versao dublada e legendada, fica so a dublada. A legendada aparece apenas quando nao existe dublada."
+    "versionCode":  41,
+    "versionName":  "1.6.8",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.8/OnePlay-1.6.8.apk",
+    "size":  3903416,
+    "sha256":  "f3ab6ca5a5a3df51f6529ec7c1feac3a091784effb7a921b997dcbadc4122818",
+    "notes":  "Novo visual do app: tema roxo, capa do destaque em tela cheia no topo e barra inferior com Inicio, TV ao Vivo, Filmes, Series, Favoritos e Historico. Suas listas, favoritos e historico continuam iguais."
 }
