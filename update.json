@@ -1,8 +1,8 @@
 {
-    "versionCode":  43,
-    "versionName":  "1.7.0",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.0/OnePlay-1.7.0.apk",
+    "versionCode":  44,
+    "versionName":  "1.7.1",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.1/OnePlay-1.7.1.apk",
     "size":  3919840,
-    "sha256":  "2a2c9677d58047264565b98401e8a5b89537c4797a622013ac1253bfcb8a2601",
-    "notes":  "Especial de Natal: carrossel e fileira com os melhores filmes natalinos, decoracao animada e cores de Natal. Inicio abre muito mais rapido (corrigida a travada ao abrir) e a fileira Favoritos saiu da tela inicial."
+    "sha256":  "db2443e7df709c8997ccf7f7b592696bb926903cc30cfb12931adaee26bfbe3e",
+    "notes":  "Corrigido: as versoes dublada e legendada do mesmo titulo voltam a aparecer no catalogo (a serie \u0027One Piece [LEG]\u0027 e outras legendadas que sumiram reaparecem) e o aviso PROXIMO EPISODIO volta a aparecer nessas series."
 }
