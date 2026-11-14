@@ -1,8 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.6.12",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.12-pc/OnePlay-Setup-1.6.12.exe",
-    "size":  114533376,
-    "sha256":  "1d4a9289d69391d5804acc01d8d0c6206de6f75b909ae39d4d2e89b37c6a8410",
-    "notes":  "Corrigido: o catalogo volta a mostrar as versoes dublada e legendada do mesmo titulo. Series legendadas que haviam sumido (como One Piece [LEG]) reaparecem, com o selo LEG na capa."
+    "versionCode":  8,
+    "versionName":  "1.6.13",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.13-pc/OnePlay-Setup-1.6.13.exe",
+    "size":  114537472,
+    "sha256":  "7f9a242c45551efb1e40b95cdfdb97ec40b1f5f7641de41cacf52faad3e3ed4f",
+    "notes":  "O catalogo e baixado de novo sozinho quando o app e atualizado: as novidades da lista (como as versoes dublada e legendada do mesmo titulo) aparecem sem precisar sincronizar na mao."
 }
