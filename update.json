@@ -1,8 +1,8 @@
 {
-    "versionCode":  42,
-    "versionName":  "1.6.9",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.9/OnePlay-1.6.9.apk",
-    "size":  3903456,
-    "sha256":  "2c11ea63758694c1f9c27d6caa633d2c4af9de25a53069354ab96df151bc1c08",
-    "notes":  "Especial de Natal no OnePlay: carrossel com os melhores filmes natalinos, floquinhos de neve e decoracao nas bordas (guirlanda, sininhos e enfeites), tema vermelho de Natal e a logo original de volta no topo. No player, um aviso de \u0027Carregando...\u0027 enquanto a imagem nao comeca."
+    "versionCode":  43,
+    "versionName":  "1.7.0",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.0/OnePlay-1.7.0.apk",
+    "size":  3919840,
+    "sha256":  "2a2c9677d58047264565b98401e8a5b89537c4797a622013ac1253bfcb8a2601",
+    "notes":  "Especial de Natal: carrossel e fileira com os melhores filmes natalinos, decoracao animada e cores de Natal. Inicio abre muito mais rapido (corrigida a travada ao abrir) e a fileira Favoritos saiu da tela inicial."
 }
