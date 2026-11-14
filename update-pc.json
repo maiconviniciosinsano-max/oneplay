@@ -1,8 +1,8 @@
 {
-    "versionCode":  5,
-    "versionName":  "1.6.10",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.10-pc/OnePlay-Setup-1.6.10.exe",
-    "size":  114467840,
-    "sha256":  "92c22e8c853314188cda0fab7a98a42555b9dea8d6fc11f28b6459ed2558b9a5",
-    "notes":  "Catalogo sem repeticao: quando o mesmo titulo tem versao dublada e legendada, fica so a dublada. A legendada aparece apenas quando nao existe dublada."
+    "versionCode":  6,
+    "versionName":  "1.6.11",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.6.11-pc/OnePlay-Setup-1.6.11.exe",
+    "size":  114537472,
+    "sha256":  "c5c35ae084d210e02499a95a75080bb85dcdab9f03b9a6b4d8b32af3ab4a4fcd",
+    "notes":  "Especial de Natal no PC: o carrossel do topo e a nova fileira Filmes de Natal mostram so os melhores filmes natalinos, com decoracao animada (guirlanda, treno e neve) e a marca em clima de festa. A fileira Favoritos saiu da Inicio; a aba Favoritos continua igual."
 }
