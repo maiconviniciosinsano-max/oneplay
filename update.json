@@ -1,8 +1,8 @@
 {
-    "versionCode":  45,
-    "versionName":  "1.7.2",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.2/OnePlay-1.7.2.apk",
+    "versionCode":  46,
+    "versionName":  "1.7.3",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.3/OnePlay-1.7.3.apk",
     "size":  3919840,
-    "sha256":  "359926ef241a625504ef3a69632beb1c1300ef6148673ed6a5ccb4bf407524bf",
-    "notes":  "Quando o app e atualizado, a lista e baixada de novo automaticamente: as novidades do catalogo (como as versoes legendadas) aparecem sozinhas, sem precisar tocar em Atualizar."
+    "sha256":  "7c3e51e334fce88aaba617ef9f0432c065e73b457f35abc34790578bb6e19a3e",
+    "notes":  "O tema de Natal agora aparece tambem na TV: neve, guirlanda, moldura e a fileira Filmes de Natal na tela inicial, igual ao celular."
 }
