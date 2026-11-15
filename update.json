@@ -1,8 +1,8 @@
 {
-    "versionCode":  47,
-    "versionName":  "1.7.4",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.4/OnePlay-1.7.4.apk",
+    "versionCode":  48,
+    "versionName":  "1.7.5",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.5/OnePlay-1.7.5.apk",
     "size":  3919840,
-    "sha256":  "12639c18d550a2398d2a570c23b1ed6a9f3fb41ff2e626e5cf34f5f627e94541",
-    "notes":  "1.7.4 - Corrige tres coisas na TV: os nomes dos filmes nao ficam mais cortados nos cartoes, saiu o quadrado que aparecia embaixo do nome no item selecionado e a versao legendada nao aparece mais duplicada ao lado da dublada nas listas (a busca continua encontrando as duas)."
+    "sha256":  "bbe352b6d33b1f84e32568389f26421d45dd4a5e81d1e6868fd01cee443f99b4",
+    "notes":  "Versao 1.7.5: corrige a versao legendada que ainda aparecia junto com a dublada nas listas (Inicio, Filmes e Series). Agora, quando a mesma obra tem as duas versoes, fica so a dublada - inclusive no caso em que o provedor marca o dublado com [DUB] e deixa o legendado sem marca. A busca por texto continua encontrando as duas versoes. O nome do filme sem corte no cartao e o quadrado que aparecia no item selecionado seguem corrigidos."
 }
