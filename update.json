@@ -1,8 +1,8 @@
 {
-    "versionCode":  46,
-    "versionName":  "1.7.3",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.3/OnePlay-1.7.3.apk",
+    "versionCode":  47,
+    "versionName":  "1.7.4",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.4/OnePlay-1.7.4.apk",
     "size":  3919840,
-    "sha256":  "7c3e51e334fce88aaba617ef9f0432c065e73b457f35abc34790578bb6e19a3e",
-    "notes":  "O tema de Natal agora aparece tambem na TV: neve, guirlanda, moldura e a fileira Filmes de Natal na tela inicial, igual ao celular."
+    "sha256":  "12639c18d550a2398d2a570c23b1ed6a9f3fb41ff2e626e5cf34f5f627e94541",
+    "notes":  "1.7.4 - Corrige tres coisas na TV: os nomes dos filmes nao ficam mais cortados nos cartoes, saiu o quadrado que aparecia embaixo do nome no item selecionado e a versao legendada nao aparece mais duplicada ao lado da dublada nas listas (a busca continua encontrando as duas)."
 }
