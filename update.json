@@ -1,8 +1,8 @@
 {
-    "versionCode":  48,
-    "versionName":  "1.7.5",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.5/OnePlay-1.7.5.apk",
+    "versionCode":  49,
+    "versionName":  "1.7.6",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.6/OnePlay-1.7.6.apk",
     "size":  3919840,
-    "sha256":  "bbe352b6d33b1f84e32568389f26421d45dd4a5e81d1e6868fd01cee443f99b4",
-    "notes":  "Versao 1.7.5: corrige a versao legendada que ainda aparecia junto com a dublada nas listas (Inicio, Filmes e Series). Agora, quando a mesma obra tem as duas versoes, fica so a dublada - inclusive no caso em que o provedor marca o dublado com [DUB] e deixa o legendado sem marca. A busca por texto continua encontrando as duas versoes. O nome do filme sem corte no cartao e o quadrado que aparecia no item selecionado seguem corrigidos."
+    "sha256":  "c358e3ae103d79e452d107440f9cdb0ff0e5bd8d1441813dbff7f2279f4d4d59",
+    "notes":  "Versao 1.7.6: o app agora resolve os enderecos das listas com DNS publicos fixos (Quad9 9.9.9.9 e OpenDNS 208.67.222.222), por conexao segura (DNS-over-HTTPS na porta 443) e, se preciso, por DNS comum. Isso fura o bloqueio e o sequestro de DNS que algumas operadoras (principalmente a Claro) fazem nas listas. Voce nao precisa configurar nada."
 }
