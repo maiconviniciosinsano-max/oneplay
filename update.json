@@ -1,8 +1,8 @@
 {
-    "versionCode":  52,
-    "versionName":  "1.7.9",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.9/OnePlay-1.7.9.apk",
+    "versionCode":  53,
+    "versionName":  "1.8.0",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.8.0/OnePlay-1.8.0.apk",
     "size":  3919840,
-    "sha256":  "ad36723a69952fd02c0676e6f282da89798b55b0fbfa68d90e7286a117190f1d",
-    "notes":  "O teste gratis agora e liberado automaticamente e avisa quando esta acabando, ja com o usuario da sua linha para o atendimento."
+    "sha256":  "d1230cdc66504ebbb4418cf267d10a503df6f0058dafd61247810cc88cc9b0f0",
+    "notes":  "Deixa o app mais rapido e sem engasgos: troca de categoria e abertura mais leves, e a atualizacao da lista nao fica mais presa."
 }
