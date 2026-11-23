@@ -1,8 +1,8 @@
 {
-    "versionCode":  51,
-    "versionName":  "1.7.8",
-    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.8/OnePlay-1.7.8.apk",
+    "versionCode":  52,
+    "versionName":  "1.7.9",
+    "url":  "https://github.com/maiconviniciosinsano-max/oneplay/releases/download/v1.7.9/OnePlay-1.7.9.apk",
     "size":  3919840,
-    "sha256":  "87f057f0b59120f0e2d8ccc8d9c164a3bb3efe749c9270134186fb7c926a7ece",
-    "notes":  "Tela inicial: botao \u0027Gerar teste gratis\u0027 (1 teste por aparelho, para sempre) e botao \u0027Pedir minha lista no WhatsApp\u0027."
+    "sha256":  "ad36723a69952fd02c0676e6f282da89798b55b0fbfa68d90e7286a117190f1d",
+    "notes":  "O teste gratis agora e liberado automaticamente e avisa quando esta acabando, ja com o usuario da sua linha para o atendimento."
 }
